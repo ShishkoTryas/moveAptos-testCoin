@@ -77,7 +77,4 @@ async function main() {
 }
 
 main();
- arguments: [account.accountAddress],
-});
-console.log(`Balance: ${balance}`);
 ```
